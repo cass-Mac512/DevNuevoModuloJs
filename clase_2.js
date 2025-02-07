@@ -1,4 +1,4 @@
-let notaEstudiante = 95;
+let notaEstudiante = 98;
 
 
 function evaluarNota(nota) {
